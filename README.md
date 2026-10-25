@@ -1,4 +1,4 @@
-# TraceChain
+# TraceChain 2.0
 
 [![tests](https://github.com/FT-snow/tracechain/actions/workflows/test.yml/badge.svg)](https://github.com/FT-snow/tracechain/actions)
 
